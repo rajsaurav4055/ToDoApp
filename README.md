@@ -27,9 +27,11 @@ Open Docker -> Open Terminal -> In the terminal run the following command:
 Check docker for a running instance of MySQL database.
 
 **Step 4: Start the Application**
+
 Navigate to Mytodoapplication.java in the project -> Right click -> Run As -> Java Application
 
 **Step 5: Open the ToDO app on Chrome**
+
 Once the application is running, Open Chrome.
 The App will be hosted at http://localhost:8080/
 
@@ -40,6 +42,7 @@ Password: admin
 Login and feel free to add, update, delete and manage you todos.
 
 **Step 6: Verify the connection with MySQL**
+
 6.1. To check the table in MySQL, make sure you have MySQL Shell installed.
 6.2. To connect to MySQL, open Terminal and run the following command:
         **mysqlsh** and press Enter 
