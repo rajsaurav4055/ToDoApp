@@ -14,13 +14,13 @@ It is a simple To Do application that has the following functionalities:
 
 **Technology Stack used:**
 
-**Frontend:** HTML, CSS, Bootstrap, JQuery
+       **Frontend:** HTML, CSS, Bootstrap, JQuery
 
-**Backend:** Java, SpringBoot, Hibernate, JPA
+       **Backend:** Java, SpringBoot, Hibernate, JPA
 
-**Database:** MySQL in Docker
+       **Database:** MySQL in Docker
 
-**Test:** JUnit, Mockito, Selenium
+       **Test:** JUnit, Mockito, Selenium
 
 **SNEAK PEAK**
 
