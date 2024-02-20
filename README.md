@@ -14,12 +14,15 @@ Steps to run the application
 Open Eclipse -> Window -> Show View-> Other -> Git Repositories.
 In the Git repository section -> Clone a Git repository -> Clone URI -> Paste the link to the github repo [https://github.com/username/repository.git](https://github.com/rajsaurav4055/ToDoApp.git)
 
-**Step 2: Import the project**
+**Step 2: Import the project:**
+
 Once the repo is cloned, right-click on the git repo (in the git repository section) -> Import Projects -> Finish
 
-**Step 3: Connecting ToDo App to MySQL database**
+**Step 3: Connecting ToDo App to MySQL database:**
+
 Open Docker -> Open Terminal -> In the terminal run the following command:
-docker run --detach --env MYSQL_ROOT_PASSWORD=dummypassword --env MYSQL_USER=todos-user --env MYSQL_PASSWORD=dummytodos --env MYSQL_DATABASE=todos --name mysql --publish 3306:3306 mysql:8-oracle
+
+**docker run --detach --env MYSQL_ROOT_PASSWORD=dummypassword --env MYSQL_USER=todos-user --env MYSQL_PASSWORD=dummytodos --env MYSQL_DATABASE=todos --name mysql --publish 3306:3306 mysql:8-oracle**
 
 Check docker for a running instance of MySQL database.
 
