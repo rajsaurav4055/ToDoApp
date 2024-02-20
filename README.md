@@ -18,7 +18,11 @@ It is a simple To Do application that has the following functionalities:
 
 **Test:** JUnit, Mockito, Selenium
 
-Steps to run the application
+**SNEAK PEAK**
+
+<img width="1430" alt="image" src="https://github.com/rajsaurav4055/ToDoApp/assets/113482311/1d054117-e55f-4d4b-a8dc-906dc8161804">
+
+**STEPS TO RUN THE APP**
 
 **Prequisites:**
 
@@ -44,11 +48,14 @@ Open Docker -> Open Terminal -> In the terminal run the following command:
 
 Check docker for a running instance of MySQL database.
 
+<img width="1254" alt="Screenshot 2024-02-20 at 2 34 27 PM" src="https://github.com/rajsaurav4055/ToDoApp/assets/113482311/20393135-0340-4528-88a1-d7627e90bce5">
+
+
 **Step 4: Start the Application**
 
 Navigate to Mytodoapplication.java in the project -> Right click -> Run As -> Java Application
 
-**Step 5: Open the ToDO app on Chrome**
+**Step 5: Open the Todo app on Chrome**
 
 Once the application is running, Open Chrome.
 The App will be hosted at http://localhost:8080/
