@@ -3,9 +3,13 @@
 It is a simple To Do application that has the following functionalities:
 1. Add and Manage Users
 2. Todo List
+
        a. Create: Ability to add new tasks.
+
        b. Read: Display a list of tasks.
+   
        c. Update: Edit existing tasks.
+   
        d. Delete: Remove tasks.
 
 **Technology Stack used:**
